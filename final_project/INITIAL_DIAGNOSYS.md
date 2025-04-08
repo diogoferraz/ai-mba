@@ -5,7 +5,7 @@
 A **Deseret Investments** é uma fintech em ascensão que busca implementar soluções automatizadas para investidores no mercado de opções da B3 (Ibovespa). Atualmente, os investidores enfrentam:  
 
 - **Desafios:**  
-  - **Tomada de decisão complexa:** Operações com opções exigem análise de múltiplos fatores (gregos, volatilidade, fundamentos).  
+  - **Tomada de decisão complexa:** Operações com opções exigem análise de múltiplos fatores (gregos, volatilidade, análise fundamentalista).  
   - **Falta de ferramentas acessíveis:** Plataformas existentes são caras ou pouco intuitivas.  
   - **Alto risco operacional:** Decisões manuais aumentam erros e perdas.  
 
