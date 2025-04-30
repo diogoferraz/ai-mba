@@ -1,9 +1,9 @@
 ### **CAPA**
-Nome da instituição: IbmecRJ
-Nome do aluno: Diogo Costa Ferraz
-Nome do projeto: Deseret Investments
-Nome do orientador: Ítalo de Souza Lucena
-Divinópolis, 14/04/2025  
+- Nome da instituição: IbmecRJ
+- Nome do aluno: Diogo Costa Ferraz
+- Nome do projeto: Deseret Investments
+- Nome do orientador: Ítalo de Souza Lucena
+- Divinópolis, 14/04/2025  
 
 ### **3.1 Objetivo SMART**  
 

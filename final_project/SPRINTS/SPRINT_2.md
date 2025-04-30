@@ -1,4 +1,9 @@
-### **Desenvolvimento do Projeto**  
+### Capa
+- Nome da instituição: IbmecRJ
+- Nome do aluno: Diogo Costa Ferraz
+- Nome do projeto: Deseret Investments
+- Nome do orientador: Ítalo de Souza Lucena
+- Divinópolis, 30/04/2025 
 
 ### **4.2 Sprint 2: Planejamento**  
 
